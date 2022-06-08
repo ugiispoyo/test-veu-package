@@ -1,5 +1,5 @@
 {
-  "name": "hello",
+  "name": "@vue/hello-test-ugi",
   "version": "0.1.0",
   "private": true,
   "scripts": {
